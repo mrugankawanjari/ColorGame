@@ -69,6 +69,7 @@ button{
     transition: all 0.4s;
     -webkit-transition:all 0.4s;
     -moz-transition: all 0.4s;
+    outline: none;
 
 }
 
